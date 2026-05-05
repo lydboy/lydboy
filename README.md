@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydboy
 - 👀 I’m interested in a new career in data analytics.
-- 🌱 I’m currently learning pythoon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything, really!
 - 📫 How to reach me ...
 
